@@ -1,4 +1,4 @@
-//Find index of the target in a rotated sorted array
+//Find index of the target in a rotated sorted array / a circular array
 class Solution {
     public int search(int[] nums, int target) {
         if(nums.length == 0 ){
